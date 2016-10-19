@@ -1,0 +1,90 @@
+/**
+ * @author zhujj
+ * Version: 1.0
+ * Date: 2015/12/1
+ * Description: Position the management style of CSS.
+ * Copyright (c) 2015 上海基辕科技有限公司版权所有.
+ */
+ 
+.positionInput{
+	background:transparent;
+	border:1px solid #a9a9a9;
+	width: 420px;
+	height: 30px;
+	text-align:left;line-height:20px;
+	padding-left: 4px;
+}
+.parentSelect{
+	width: 420px;
+	height: 30px;
+}
+
+.positionFont{
+	font-size: 15px;
+	color: #000000;
+	font-family: 黑体;
+}
+
+.up_tr{
+	margin: 10px 0px;
+}
+.div_row{
+	height: 40px;
+}
+.r_l{
+	float: left;
+	width: 150px;
+	height: 35px;
+	text-align: right;
+}
+.r_r{
+	float: left;
+}
+
+#sample_1{
+	width: 1000px; 
+}
+
+.div_down{
+	margin-top: 10px;
+}
+
+.div_up{
+	height:180px;
+}
+
+.div_up2{
+	height:180px;
+	display: none;
+}
+
+.div_row_none{
+	display: none;
+}
+
+.form-bodyPad{
+	margin-left: 200px;
+}
+
+.span_psd{
+	padding-top: 30px;
+}
+
+ul,li{
+	list-style: none;
+}
+.ul-left{
+	padding-top: 10px;
+}
+.item{
+	width : 300px;
+	float : left;
+}
+.font-lvl1{
+	font-weight: bold;
+}
+
+.required{
+	color: #e82030;
+}
+

@@ -1,0 +1,62 @@
+/**
+ * @author mwan
+ * Version: 1.0
+ * Date: 2015/08/10
+ * Description: application css.
+ * Copyright (c) 2015 mwan. All rights reserved.
+ */
+ 
+ .Playlist_Decorate  {
+  background-color: rgba(137, 195, 248, 1.0);
+  padding: 0.8px;
+  vertical-align:super;
+  box-shadow:
+        1px 1px   0 rgba(0,   0,   0,   0.100),
+        3px 3px   0 rgba(137, 195, 248, 1.0),
+        4px 4px   0 rgba(0,   0,   0,   0.125),
+        6px 6px   0 rgba(137, 195, 248, 1.0),
+        7px 7px   0 rgba(0,   0,   0,   0.150);
+}
+
+.inlineEdit .button-group {
+float: left;
+}
+
+.inlineEdit  button {
+background: #eee;
+color: #999;
+border: 1px solid #eee;
+}
+
+.inlineEdit .active {
+background: #ef4035;
+color: #fff;
+cursor: default;
+box-shadow: inset 0 2px 3px #c52920;
+border: 1px solid #ef4035;
+}
+
+.framesetThumbnailContainer {
+width: 120px;
+height: 100px;
+display: inline-block;
+overflow: hidden;
+}
+
+.framesetThumbnail {
+position: relative;
+width: 100%;
+height: 100%;
+display: block;
+background: #000;
+border: 1px solid #fff;
+}
+
+.thumbnailFrameSelected {
+border: 1px inset #000000;
+z-index: 10;
+}
+
+.thumbnailFrameSelected:hover {
+cursor:pointer;
+}

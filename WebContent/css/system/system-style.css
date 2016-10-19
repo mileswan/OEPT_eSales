@@ -1,0 +1,43 @@
+.sys-group-span{
+	text-align: left;
+	font-weight: bold;
+	color: #4276A4;
+	padding-left: 80px;
+	}
+	
+.item-t-tr{
+	padding: 10px;
+	margin: 10px;
+	height: 50px;
+}
+.item-t{
+	margin: 20px;
+}
+.item-t-td-l{
+	width: 100px;
+	margin: 10px;
+	text-align: right;
+	font-weight: bold;
+}
+.item-t-td-r{
+	margin: 10px;
+	
+}
+.button-right{
+	float: right;
+}
+.input-text{
+	width: 400px;
+}
+
+.approvalCourse-div{
+	background-color: #f9f9f9;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.approvalCourse-body{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}

@@ -1,0 +1,270 @@
+/**
+ * @author zhujj
+ * Version: 1.0
+ * Date: 2015/12/2
+ * Description: Service the management style of CSS.
+ * Copyright (c) 2015 上海基辕科技有限公司版权所有.
+ */
+#contactName {
+	width: 420px;
+	height: 30px;
+	text-align: left;
+	line-height: 20px;
+}
+
+.newAssressSelect {
+	height: 30px;
+	width: 135px;
+}
+
+#serType {
+	width: 420px;
+	height: 30px;
+	text-align: left;
+	line-height: 20px;
+}
+
+#serDesc {
+	width: 420px;
+	height: 30px;
+	text-align: left;
+	line-height: 20px;
+}
+
+#serDetail {
+	width: 420px;
+	height: 80px;
+	text-align: left;
+	line-height: 20px;
+}
+
+.addressFont {
+	font-size: 15px;
+	color: #000000;
+	font-family: 黑体;
+}
+
+.up_tr {
+	margin: 10px 0px;
+}
+
+.div_row {
+	height: 40px;
+}
+
+.div_row2 {
+	height: 90px;
+}
+
+.r_l {
+	float: left;
+	width: 150px;
+	height: 35px;
+	text-align: right;
+}
+
+.r_r {
+	float: left;
+}
+
+#sample_1 {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#sample_2 {
+	width: 700px;
+}
+
+.div_down {
+	margin-top: 20px;
+}
+
+.div_up {
+	
+}
+
+.div_up2 {
+	height: 350px;
+	display: none;
+}
+
+.div_row_none {
+	display: none;
+}
+
+.form-bodyPad {
+	margin-left: 200px;
+}
+
+.span_psd {
+	padding-top: 30px;
+}
+
+#button_show {
+	background-color: #74a030;
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.body-top {
+	padding-bottom: 50px;
+}
+
+#serTop {
+	text-align: center;
+	width: 700px;
+	height: 50px;
+	font-size: 17px;
+	border: 1px solid #dddddd;
+	border-bottom-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+
+.div_text {
+	float: left;
+}
+
+.div_time {
+	float: right;
+}
+
+.div_right {
+	float: right;
+}
+
+.div_bottom {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.div_bottom_right {
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+}
+
+.div_bottom_title {
+	font-size: 17px;
+	font-weight: bold;
+}
+
+#div_bottom_button {
+	width: 80px;
+	height: 30px;
+}
+
+#notborder{
+	border: 0px none red;
+}
+
+.div_comp_d0 {
+	width: 802px;
+	border: 1px solid #fcd209;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.div_comp_d1 {
+	width: 800px;
+	height: 30px;
+	font-size: 16px;
+	padding-left: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #fcd209;
+	padding-top: 3px;
+	border-left-color: red;
+}
+
+.comp_tr1{
+	height: 30px;
+}
+.comp_td1{
+	font-size: 16px;
+	padding-left: 10px;
+}
+.comp_td2{
+	font-size: 16px;
+	padding-left: 300px;
+	padding-right: 15px;
+	color: #999999;
+}
+.comp_td3{
+	font-size: 18px;
+	font-weight:bold;
+	color:red;
+	padding-left: 10px;
+	
+}
+.comp_td4{
+	font-size: 15px;
+	padding-left: 30px;
+	padding-right: 45px;
+}
+.font_big{
+	font-size: 30px;
+	float: left;
+}
+.font_big2{
+	margin-top:14px;
+	font-size: 18px;
+	font-weight:bold;
+	color:red;
+	float: left;
+}
+.comp_td5{
+	padding-left:45px;
+	padding-right: 45px;
+}
+
+.comp_td6{
+	padding-left:15px;
+	padding-right: 15px;
+}
+.comp_td7{
+	padding-left:15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
+.comp_td_div{
+	float: right;
+}
+.div_select_cho{
+	width: 1000px;
+	height:40px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: right;
+	padding-top: 10px;
+}
+
+.select_cho{
+	width: 230px;
+	height: 30px;
+}
+
+.div_rows {
+	height: 40px;
+	width: 700px;
+}
+.div_row2s {
+	height: 100px;
+	width: 700px;
+}
+
+.form-control{
+	width: 400px;
+	height: 35px;
+}
+.returnFont{
+	font-size: 16px;
+	text-align: right;
+	padding-top: 6px;
+}
