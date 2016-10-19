@@ -1,0 +1,60 @@
+/**
+ * @author zhujj
+ * Version: 1.0
+ * Date: 2015/11/18
+ * Description: Address the management style of CSS.
+ * Copyright (c) 2015 上海基辕科技有限公司版权所有.
+ */
+ 
+.newAddressInput{
+	background:transparent;
+	border:1px solid #a9a9a9;
+	width: 420px;
+	height: 30px;
+	text-align:left;line-height:20px;
+}
+.newAssressSelect{
+	height: 30px;
+	width: 135px;
+}
+.modal-content{
+	margin-top: 120px;
+}
+.newAddressInput2{
+	background:transparent;
+	border:1px solid #e5e5e5;
+	width: 560px;
+	height: 40px;
+	text-align:left;
+	line-height:20px;
+	padding-left: 10px;
+}
+.newAssressSelect2{
+	border:1px solid #e5e5e5;
+	height: 40px;
+	width: 150px;
+	padding-left:7px;
+}
+.addressFont{
+	font-size: 15px;
+	color: #000000;
+	font-family: 黑体;
+}
+
+.newAddressInput3{
+	background:transparent;
+	border:1px solid #e5e5e5;
+	width: 465px;
+	height: 40px;
+	text-align:left;
+	line-height:20px;
+	padding-left: 10px;
+	background-color: #eeeeee;
+}
+.newAssressSelect3{
+	border:1px solid #e5e5e5;
+	height: 40px;
+	width: 150px;
+	padding-left:7px;
+	background-color: #eeeeee;
+}

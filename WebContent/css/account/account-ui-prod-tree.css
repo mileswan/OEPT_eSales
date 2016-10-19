@@ -1,0 +1,161 @@
+#modal-content{
+	margin-top:150px;;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	height: 220px;
+	padding:10px;
+}
+#m-body{
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	height: 110px;
+	border: 1px solid #f0f0f0;
+	margin-bottom: 8px;
+}
+#m-top{
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	height: 30px;
+	background-color: #f0f0f0;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#m-bottom{
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	height: 40px;
+	text-align: center;
+}
+.m-tl{
+	text-align: right;
+	font-size: 14px;
+}
+.m-table{
+	width: 300px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.m-bor{
+	width: 210px;
+	height: 28px;
+}
+#m-tr{
+	margin-top:6px;
+	float:  right;
+	height: 10px;
+	width: 10px;
+}
+#tree_1{
+	overflow: auto;
+	height: 538px; 
+	width: 250px;
+}
+.m-tree{
+	width: 25%; 
+	height:600px;
+	float: left;
+}
+#m-tree{
+	width: 100%; 
+	height:600px;
+}
+.m-table{
+	float: left;
+	width: 75%;
+	height: 600px;
+	padding-left:auto;
+	padding-right: auto;
+}
+#m-table{
+	width: 100%;
+	height: 600px;
+}
+#m-table-b{
+	height: 558px;
+}
+.content-b{
+	width: 100%;
+	height: 602px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.m-add{
+	height: 300px; 
+	width:816px; 
+	margin-top: -330px; 
+	margin-left: 11px;;
+	margin-right: auto;
+}
+#m-table2{
+	margin-left: auto;
+	margin-right: auto;
+	height: 292px; 
+	width:814px;
+}
+#m-table-b2{
+	height: 250px;
+}
+.from-c{
+	height: 25px;
+	width: 230px;
+	float: right;
+}
+
+#row33{
+	width: 710px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+}
+.from-c2{
+	width: 205px;
+	height: 25px;
+	float: right;
+}
+#from-c2{
+	width: 24px;
+	height: 25px;
+	float: right;
+	padding-left: -4px;
+	padding-top: -3px;
+}
+#from-c22{
+	margin-left: -6px;
+	margin-top: -10px;
+}
+.from-c23a{
+	border-right:1px solid #cccccc; 
+	float: right;
+}
+.from-c23s{
+	border-right:1px solid #cccccc; 
+	float: right;
+}
+.from-c23b{
+	border-right:1px solid #cccccc; 
+	float: right;
+}
+.from-c23a2{
+	border-right:1px solid #cccccc; 
+	float: right;
+}
+.from-c23s2{
+	border-right:1px solid #cccccc; 
+	float: right;
+}
+.from-c23b2{
+	border-right:1px solid #cccccc; 
+	float: right;
+}
+.m-table5{
+	width: 350px;
+	height: 100px;
+}
