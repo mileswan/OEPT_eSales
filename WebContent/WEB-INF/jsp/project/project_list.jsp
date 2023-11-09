@@ -305,10 +305,10 @@
 	                    		<td><a href="<%=path%>/project/project_details.do">
 	                    		2-19282461782</a></td>
 	                    		<td>
-	                    			四季度园区网络改造项目        		
+	                    			****网络改造项目        		
 								</td>
 	                    		<td>
-	                    			东风集团总部 	
+	                    			****集团总部 	
 	                    		</td>
 	                    		<td>
 	                    			准备阶段 	
@@ -330,10 +330,10 @@
 	                    		<td><a href="<%=path%>/project/project_details.do">
 	                    		2-12822331782</a></td>
 	                    		<td>
-	                    			第二工厂网络设备采购项目      		
+	                    			****网络设备采购项目      		
 								</td>
 	                    		<td>
-	                    			中国石油 	
+	                    			**** 	
 	                    		</td>
 	                    		<td>
 	                    			实施阶段 	
@@ -355,10 +355,10 @@
 	                    		<td><a href="<%=path%>/project/project_details.do">
 	                    		2-28224282</a></td>
 	                    		<td>
-	                    			信息中心数据库维护服务项目      		
+	                    			数据库维护服务项目      		
 								</td>
 	                    		<td>
-	                    			南方电力	
+	                    			****	
 	                    		</td>
 	                    		<td>
 	                    			收尾阶段 	
